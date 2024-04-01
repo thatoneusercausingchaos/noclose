@@ -1,0 +1,10 @@
+body, p {
+    font-family: Arial, Sans-Serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+a:link, a:visited {
+  color: #0000ee;
+  text-decoration: none;
+}
