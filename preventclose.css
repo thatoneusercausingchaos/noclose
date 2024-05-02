@@ -1,10 +1,19 @@
-body, p {
-    font-family: Arial, Sans-Serif;
+html, body {
+    font-family: Arial,Sans-Serif;
     text-align: center;
-    padding-top: 50px;
+    padding: 25px;
 }
 
 a:link, a:visited {
   color: #0000ee;
   text-decoration: none;
+}
+
+.button {
+  padding: 15px 32px;
+  font-size: 16px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  cursor: pointer;
 }
